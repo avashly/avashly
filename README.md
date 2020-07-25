@@ -1,3 +1,5 @@
+<br>
+
 ![intro](https://user-images.githubusercontent.com/7104693/88450894-4bcc6200-ce07-11ea-9a03-d12df8a15eca.png) 
 
 ![GDC+2019](https://user-images.githubusercontent.com/7104693/88450449-d6ab5d80-ce03-11ea-892c-9880dba41ddb.jpg)
@@ -12,12 +14,14 @@ Always happy to chat about: <br>
 <img src="https://user-images.githubusercontent.com/7104693/88452044-6951f980-ce10-11ea-9b87-78891fbf2401.png" height="18" width="18"> &nbsp;My Homeland <br>
 🐶 Doggos!
 
+<br>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/7104693/88465275-87524500-ce76-11ea-8a6e-d5f47e0a46c6.png" height="20"> &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/7104693/88465249-65f15900-ce76-11ea-9ea2-2059029b956f.png" height="20"> &nbsp;&nbsp;
-  <img src="https://user-images.githubusercontent.com/7104693/88465290-99cc7e80-ce76-11ea-8236-f3db52dfa9fd.png" height="20"> &nbsp;&nbsp;
+  
+[![Twitter](https://user-images.githubusercontent.com/7104693/88465695-a2728400-ce79-11ea-985a-3cd50e92f0b3.png)](https://twitter.com/avashly) &nbsp; [![LinkedIn](https://user-images.githubusercontent.com/7104693/88465737-f7ae9580-ce79-11ea-9aca-0d13b28b5a9a.png)](https://www.linkedin.com/in/ashleyalicea/) &nbsp; [![Contact](https://user-images.githubusercontent.com/7104693/88465738-f8472c00-ce79-11ea-9a95-3ea784048920.png)](https://www.ashleyalicea.com/#contact)
+  
 </p>
+
 
 
 ## Current Projects
