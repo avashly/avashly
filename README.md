@@ -6,6 +6,8 @@
 
 As a Senior Dev Advocate at Unity, I spend my days creating technical demos & talks that empower game creators across the globe.
 
+<br>
+
 [![Twitter](https://user-images.githubusercontent.com/7104693/88465695-a2728400-ce79-11ea-985a-3cd50e92f0b3.png)](https://twitter.com/avashly) &nbsp; [![LinkedIn](https://user-images.githubusercontent.com/7104693/88465737-f7ae9580-ce79-11ea-9aca-0d13b28b5a9a.png)](https://www.linkedin.com/in/ashleyalicea/) &nbsp; [![Contact](https://user-images.githubusercontent.com/7104693/88465738-f8472c00-ce79-11ea-9a95-3ea784048920.png)](https://www.ashleyalicea.com/#contact)
 
 Always happy to chat about: <br>
