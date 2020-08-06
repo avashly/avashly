@@ -24,6 +24,6 @@ Always happy to chat about: <br>
 
 <img src="https://user-images.githubusercontent.com/7104693/88254850-67026a80-cc6b-11ea-8d39-28171e2a961b.gif" width="300" align="left"/>
 
-### [Unity-BoltKit-Samples](https://github.com/avashly/Unity-BoltKit-Samples)
+### [Unity-Bolt-Samples](https://github.com/avashly/Unity-BoltKit-Samples)
 
 A collection of Unity packages featuring Bolt Visual Scripting samples that demonstrate how to work with Unity editor features, game logic, & more.
