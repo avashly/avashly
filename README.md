@@ -22,8 +22,8 @@ Always happy to chat about: <br>
 
 ## ![Current Projects](https://user-images.githubusercontent.com/7104693/88465852-490b5480-ce7b-11ea-8669-a44e05d36215.png)
 
-<img src="https://user-images.githubusercontent.com/7104693/88254850-67026a80-cc6b-11ea-8d39-28171e2a961b.gif" width="300" align="left"/>
+<img src="https://user-images.githubusercontent.com/7104693/111186890-b259e800-8570-11eb-83da-6d688fd84dad.gif" width="300" align="left"/>
 
-### [Unity-Bolt-Samples](https://github.com/avashly/Unity-BoltKit-Samples)
+### [Unity-VisualScripting-Samples](https://github.com/avashly/unity-visualscripting-samples)
 
-A collection of Unity packages featuring Bolt Visual Scripting samples that demonstrate how to work with Unity editor features, game logic, & more.
+A collection of Unity packages demonstrating game mechanics and use cases for Unity Visual Scripting (previously known as Bolt), which is now native to the editor as of Unity 2021.1.
