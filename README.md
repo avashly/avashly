@@ -14,16 +14,5 @@ Always happy to chat about: <br>
 🖥️ Unity features &amp; workflows <br>
 🤝🏽 Game creator / dev communities <br>
 🎮 Game development & indie games<br>
-⚡ Visual scripting (especially Bolt) <br>
-<img src="https://user-images.githubusercontent.com/7104693/88452044-6951f980-ce10-11ea-9b87-78891fbf2401.png" height="18" width="18"> &nbsp;My Homeland <br>
-🐶 Doggos!
-
+👀 Visual scripting systems <br>
 <br>
-
-## ![Current Projects](https://user-images.githubusercontent.com/7104693/88465852-490b5480-ce7b-11ea-8669-a44e05d36215.png)
-
-<img src="https://user-images.githubusercontent.com/7104693/111186890-b259e800-8570-11eb-83da-6d688fd84dad.gif" width="300" align="left"/>
-
-### [Unity-VisualScripting-Samples](https://github.com/avashly/unity-visualscripting-samples)
-
-A collection of Unity packages demonstrating game mechanics and use cases for Unity Visual Scripting (previously known as Bolt), which is now native to the editor as of Unity 2021.1.
