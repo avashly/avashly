@@ -4,7 +4,7 @@
 
 ![GDC+2019](https://user-images.githubusercontent.com/7104693/88450449-d6ab5d80-ce03-11ea-892c-9880dba41ddb.jpg)
 
-As a Senior Dev Advocate at Unity, I spend my days creating technical demos & talks that empower game creators across the globe.
+As a Senior Technical Product Manager at Unity, I spend my days focused on data workflows and codeless gameplay tools that make the Unity editor more approachable to a diverse range of creatives.
 
 <br>
 
